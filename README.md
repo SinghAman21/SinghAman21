@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on shell-dead a Powershell replica.<br>Looking folks to solve DSA together and increase vision+knowledge.<br>I'm currently learning Python AI/ML <br>Just love to dive in pool of Information
+Working on building knowledge.<br>Looking folks to solve DSA together and increase vision+knowledge.<br>Just love to dive in pool of Information
 
 
 ## 🌐 Socials:
