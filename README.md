@@ -67,10 +67,6 @@ I'm a passionate developer focused on building efficient, scalable, and reliable
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SinghAman21&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aman's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghAman21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghAman21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
